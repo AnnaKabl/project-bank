@@ -1,2 +1,2 @@
-# project-bank
+# projects
 анализ банковских данных
